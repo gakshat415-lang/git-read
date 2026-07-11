@@ -72,8 +72,8 @@ I am transitioning into Product Management to leverage my analytical rigor to so
 <div align="center">
   <p><i>Visualizing consistency, deployment cadence, and commit history.</i></p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gakshat415-lang/gakshat415-lang/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gakshat415-lang/gakshat415-lang/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gakshat415-lang/git-read/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gakshat415-lang/git-read/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gakshat415-lang/gakshat415-lang/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
