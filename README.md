@@ -72,10 +72,10 @@ I am transitioning into Product Management to leverage my analytical rigor to so
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=3B82F6&bg_color=0D1117&icon_color=3B82F6&text_color=A3B3BC" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=gakshat415-lang&show_icons=true&theme=radical&hide_border=true&title_color=3B82F6&bg_color=0D1117&icon_color=3B82F6&text_color=A3B3BC" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=3B82F6&bg_color=0D1117&text_color=A3B3BC" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshat415-lang&layout=compact&theme=radical&hide_border=true&title_color=3B82F6&bg_color=0D1117&text_color=A3B3BC" alt="Top Languages" />
       </td>
     </tr>
   </table>
