@@ -297,7 +297,7 @@ If you're building something interesting in AI, SaaS, consumer technology, or pr
 
 <a href="https://akspor.netlify.app/">Portfolio</a>
 &nbsp; • &nbsp;
-<a href="https://https://www.linkedin.com/in/callmeakshat/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/callmeakshat/">LinkedIn</a>
 &nbsp; • &nbsp;
 <a href="https://github.com/gakshat415-lang">GitHub</a>
 
@@ -305,10 +305,4 @@ If you're building something interesting in AI, SaaS, consumer technology, or pr
 
 ---
 
-<div align="center">
 
-### 🐍 Contribution Activity
-
-<img src="https://raw.githubusercontent.com/gakshat415-lang/gakshat415-lang/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-
-</div>
