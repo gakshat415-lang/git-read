@@ -287,17 +287,6 @@ Using qualitative and quantitative signals to understand what users need and wha
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gakshat415-lang&show_icons=true&theme=default&hide_border=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gakshat415-lang&layout=compact&theme=default&hide_border=true" width="48%" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm currently exploring **Product Management, AI Product, and Product Analytics opportunities**.
