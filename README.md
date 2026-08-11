@@ -307,9 +307,9 @@ If you're building something interesting in AI, SaaS, consumer technology, or pr
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+<a href="https://akspor.netlify.app/">Portfolio</a>
 &nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/akshatgupta/">LinkedIn</a>
+<a href="https://https://www.linkedin.com/in/callmeakshat/">LinkedIn</a>
 &nbsp; • &nbsp;
 <a href="https://github.com/gakshat415-lang">GitHub</a>
 
