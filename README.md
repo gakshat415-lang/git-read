@@ -4,7 +4,7 @@
 
 ### Product Management | AI Product Builder | User Research | Product Analytics
 
-I’m transitioning from customer-facing business roles into Product Management,  
+I’m transitioning from customer-facing business roles into Product Management,  hahaehehe
 with a focus on building **AI-powered, customer-centric products**.
 
 <br>
